@@ -1,0 +1,7 @@
+ServerModel/
+static/
+templates/
+__pycache__/
+file/
+.idea/
+train_data.db.npy
